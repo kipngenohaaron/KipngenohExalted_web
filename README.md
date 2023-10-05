@@ -4,8 +4,13 @@
 - Kipngenoh Aaron Rotich
 - https://kipngenohaaron.github.io/Personal_Portfolio_Website
 - Kipngenohaaron@gmail.com
-- 0724 279 400 
- 
+- 0724 279 400 / 0724828197
+
+
+ ## Live links:
+ https://kipngenoh-exalted-web.vercel.app
+
+ https://kipngenohexalted.onrender.com
 
 ## Table of Contents
 
